@@ -135,7 +135,7 @@ session_start();
                             </div>
             
                             <div class="mb-4">
-                                <input type="password" class="form-control" id = "card_number" name = "card_number" placeholder="Enter the card number">
+                                <input type="text" class="form-control" id = "card_number" name = "card_number" placeholder="Enter the card number">
                             </div>
 
                             <div class="mb-4">          
